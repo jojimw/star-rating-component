@@ -2,6 +2,7 @@
   "name": "star-rating-component",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jojimw.github.io/star-rating-component",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.12.0",
