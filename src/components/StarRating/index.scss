@@ -1,0 +1,42 @@
+.star {
+    &__container{
+        height: 20vh;
+    }
+
+    &__wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 1rem;
+    }
+
+    &-rating {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        margin-top: 2.5rem;
+    }
+
+    &__header{
+        font-size: 1.7rem;       
+        font-weight: 600;
+    }
+
+    &__rating{
+        margin-top: 1.5rem;
+        
+        &-comment{
+            margin-top: 1.1rem;
+            font-size: 3.5rem;
+            font-weight: 300;
+        }
+    }
+
+    &__icon {
+        font-size: 5rem;
+
+        &:hover{
+            cursor: pointer;
+        }
+    }
+}
