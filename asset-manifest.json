@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/star-rating-component/static/css/main.2b9c2137.chunk.css",
+    "main.css": "/star-rating-component/static/css/main.0faf56be.chunk.css",
     "main.js": "/star-rating-component/static/js/main.26d6388f.chunk.js",
     "main.js.map": "/star-rating-component/static/js/main.26d6388f.chunk.js.map",
     "runtime~main.js": "/star-rating-component/static/js/runtime~main.d3ce90bd.js",
@@ -8,8 +8,8 @@
     "static/js/2.64d4731d.chunk.js": "/star-rating-component/static/js/2.64d4731d.chunk.js",
     "static/js/2.64d4731d.chunk.js.map": "/star-rating-component/static/js/2.64d4731d.chunk.js.map",
     "index.html": "/star-rating-component/index.html",
-    "precache-manifest.4ccd510491ff9a30b46700885464c618.js": "/star-rating-component/precache-manifest.4ccd510491ff9a30b46700885464c618.js",
+    "precache-manifest.68871ecf3689cfe77a0e774a014ba45b.js": "/star-rating-component/precache-manifest.68871ecf3689cfe77a0e774a014ba45b.js",
     "service-worker.js": "/star-rating-component/service-worker.js",
-    "static/css/main.2b9c2137.chunk.css.map": "/star-rating-component/static/css/main.2b9c2137.chunk.css.map"
+    "static/css/main.0faf56be.chunk.css.map": "/star-rating-component/static/css/main.0faf56be.chunk.css.map"
   }
 }
